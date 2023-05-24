@@ -34,15 +34,10 @@ It is my Amazon clone project built with ReactJS and Fake Store API.
   GET "/products?limit=Number"
 ```
 
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `Number`      | `Number` | **Required**. Number of limit |
 
 
 
-## Appendix
-- Check out Wiki to see screen shots of the Amazon Clone
-## Authors
 
-- [@hasibulislam999](https://github.com/hasibulislam999)
+
+
 
